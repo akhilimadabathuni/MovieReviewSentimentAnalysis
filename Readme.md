@@ -1,4 +1,5 @@
 **Movie Review Sentiment Analysis**
+------------------------------------
 A beginner-friendly data science project that trains a machine learning model to classify movie reviews as either positive or negative. This project uses Python and the Scikit-learn library to process text data and build a predictive model.
 
 🚀 Features
@@ -47,5 +48,6 @@ Once the setup is complete, you can run the main script from your terminal:
 python main.py
 
 The script will first download the necessary NLTK data packages (stopwords and wordnet), then it will train the model and display the evaluation results (including accuracy and a confusion matrix). Finally, it will enter an interactive mode where you can input your own reviews.
+
 
 
