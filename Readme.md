@@ -48,5 +48,3 @@ python main.py
 
 The script will first download the necessary NLTK data packages (stopwords and wordnet), then it will train the model and display the evaluation results (including accuracy and a confusion matrix). Finally, it will enter an interactive mode where you can input your own reviews.
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
